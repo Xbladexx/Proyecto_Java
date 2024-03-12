@@ -14,6 +14,10 @@ package primary;
    public class Primary {
    
         public static void main(String[] args) {
-            System.out.println("Jeremy");     
+            System.out.println("Jeremy");   
+            System.out.println("Automovil");
+            System.out.println("avion");
+            System.out.println("barco");
+              
         }
    }
